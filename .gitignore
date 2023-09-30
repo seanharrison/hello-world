@@ -1,2 +1,5 @@
 salvo-rs/target/
 actix-rs/target/
+__pycache__
+starlette-py/starlette_py.egg-info/
+starlette-py/.envrc
