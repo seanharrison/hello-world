@@ -1,5 +1,8 @@
-salvo-rs/target/
-actix-rs/target/
 __pycache__
-starlette-py/starlette_py.egg-info/
+.fake
+actix-rs/target/
+giraffe-fs/bin/
+giraffe-fs/obj/
+salvo-rs/target/
 starlette-py/.envrc
+starlette-py/starlette_py.egg-info/
