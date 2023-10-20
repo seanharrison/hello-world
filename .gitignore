@@ -1,6 +1,7 @@
 __pycache__
 .fake
 actix-rs/target/
+axum-rs/target/
 giraffe-fs/bin/
 giraffe-fs/obj/
 salvo-rs/target/
